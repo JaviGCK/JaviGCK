@@ -44,7 +44,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/JaviGCK" title="Check out my GitHub">GitHub Profile</a>
+  <a href="https://github.com/JaviGCK?tab=repositories" title="Check out my GitHub">GitHub Profile</a>
 </div>
 
 <hr>
