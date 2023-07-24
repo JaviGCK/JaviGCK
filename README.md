@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="mailto:javigcpgr@gmail.com">📫 Contact Me</a> |
-  <a href="linkedin.com/in/javier-garcia-cabello-b97367267">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/javier-garcia-cabello-b97367267/">LinkedIn Profile</a>
 </div>
 
 <hr>
