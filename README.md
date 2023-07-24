@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  Learning is my fuel for personal growth, and I'm currently expanding my skills in Full Stack development at AIT. There's always something new to learn, and I embrace the challenge of continuous improvement.
+  Learning is my fuel for personal growth, and I'm currently expanding my skills in Full Stack development at <a href"https://assemblerinstitute.com/">AIT.</a> There's always something new to learn, and I embrace the challenge of continuous improvement.
 </p>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
 <h2 align="center">🌱 Learning Journey</h2>
 <p>
-  I'm currently on a learning journey at AIT, exploring various aspects of Full Stack development. Every day is an opportunity to gain new knowledge and skills. Stay tuned for updates on my progress!
+  I'm currently on a learning journey at <a href="https://assemblerinstitute.com/">AIT</a>, exploring various aspects of Full Stack development. Every day is an opportunity to gain new knowledge and skills. Stay tuned for updates on my progress!
 </p>
 
 <h2 align="center">💡 Interests</h2>
