@@ -43,6 +43,8 @@
   I'm interested in all things programming! From front-end technologies like React to back-end systems and databases, I'm fascinated by the endless possibilities that programming offers. Let's explore and learn together!
 </p>
 
+<hr>
+
 <div align="center">
   <a href="https://github.com/JaviGCK?tab=repositories" title="Check out my GitHub">GitHub Profile</a>
 </div>
